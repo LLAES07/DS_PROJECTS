@@ -1,15 +1,17 @@
-# Proyectos de Data Science
+# [EN] Data Science Projects **//** [ES] Proyectos de Data Science
 
-Bienvenido al repositorio que alberga mis proyectos de Data Science. Aquí encontrarás una recopilación de análisis, visualizaciones y modelos relacionados con diversos conjuntos de datos.
+**[EN]** Welcome to my github repository where all my data science projets are storage. Here you can find many projects that help me to develop as a datascience. I hope you'll enjoy it.
 
-## Estructura del Repositorio
+**[ES]** Bienvenido al repositorio que alberga mis proyectos de Data Science. Aquí encontrarás una recopilación de análisis, visualizaciones y modelos relacionados con diversos conjuntos de datos.
 
-- **Proyecto 1: [Nombre del Proyecto](enlace_al_proyecto_1)**
+## [EN] Repository structure // [ES] Estructura del Repositorio
+
+- **[EN] Project 1 // [ES] Proyecto 1: [Nombre del Proyecto](enlace_al_proyecto_1)**
   - Breve descripción del proyecto y los objetivos.
   - Tecnologías y herramientas utilizadas.
   - Enlace al código fuente y a cualquier informe o documentación relevante.
 
-- **Proyecto 2: [Nombre del Proyecto](enlace_al_proyecto_2)**
+- **[EN] Project 2 // [ES] Proyecto 2: [Nombre del Proyecto](enlace_al_proyecto_2)**
   - Breve descripción del proyecto y los objetivos.
   - Tecnologías y herramientas utilizadas.
   - Enlace al código fuente y a cualquier informe o documentación relevante.
