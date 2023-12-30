@@ -54,9 +54,9 @@ Si tienes preguntas, sugerencias o simplemente quieres discutir alguno de los pr
 
 ### [EN] Social media and contact // [ES] Redes Sociales y Contacto
 
-<a href="enlace_a_tu_perfil_linkedin"><img src="https://wa.me/+56979297370" alt="Escríbeme a wtsp" width="30"></a>
-<a href="enlace_a_tu_perfil_twitter"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png" alt="Linkedin width="30"></a>
-<a href="enlace_a_tu_perfil_github"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/25/Group-512.png" alt="Ícono de GitHub" width="30"></a>
+<a href="https://wa.me/+56979297370"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Whatsapp_svg-512.png" alt="Escríbeme a wtsp" width="30"></a>
+<a href="enlace_a_tu_perfil_twitter"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png" alt="Ícono de Twitter" width="30"></a>
+<a href="https://github.com/LLAES07"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/25/Group-512.png" alt="Ícono de GitHub" width="30"></a>
 <a href="enlace_a_tu_perfil_github"><img src="https://cdn1.iconfinder.com/data/icons/material-communication/20/gmail-512.png" alt="Gmail" width="30"></a>
 
 </div>
